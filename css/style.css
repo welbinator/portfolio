@@ -85,6 +85,7 @@
             .modal-image {
                 width: 50%;
                 height: auto;
+                overflow: hidden;
             }
             
             .modal-image img {
