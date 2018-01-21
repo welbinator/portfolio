@@ -72,10 +72,8 @@
            }
             
             .portfolio-modal {
-                    position: absolute;
+                    position: fixed;
                     width: 75%;
-                    
-                    
                     box-shadow: 1px 1px 14px;
                     display: none;
                     flex-direction: column;
